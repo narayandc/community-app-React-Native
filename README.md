@@ -24,13 +24,13 @@ List any prerequisites or dependencies that need to be installed before running 
 
 1. Clone the repository:
 
-git clone git@github.com:narayandc/community-app-React-Native.git
-cd community-app-React-Native
+-git clone git@github.com:narayandc/community-app-React-Native.git
+-cd community-app-React-Native
 
 2. start project
-npm install
-npx expo start -c
-type a to open andriod simulator and i for ios simulator
+-npm install
+-npx expo start -c
+-type a to open andriod simulator and i for ios simulator
 
 
 

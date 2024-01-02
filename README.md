@@ -31,6 +31,18 @@ List any prerequisites or dependencies that need to be installed before running 
 -npm install
 -npx expo start -c
 -type a to open andriod simulator and i for ios simulator
+![Logout](https://github.com/narayandc/community-app-React-Native/assets/45338758/a2b639ad-c986-40cf-92ad-c005f756efda)
+![Voting](https://github.com/narayandc/community-app-React-Native/assets/45338758/3c2c1946-6668-4854-9c8e-2e2c1e0032a5)
+![AddEVent](https://github.com/narayandc/community-app-React-Native/assets/45338758/4a5d7492-c55b-4a11-b035-cad9623da23f)
+![Events](https://github.com/narayandc/community-app-React-Native/assets/45338758/bff8f15e-3bb3-4bfd-b647-facd27b34f79)
+![MilanGroup](https://github.com/narayandc/community-app-React-Native/assets/45338758/2b80762f-18d8-4d6e-871a-c7fa365b3665)
+![Setting](https://github.com/narayandc/community-app-React-Native/assets/45338758/7f47a0e9-87d2-4061-adbd-f439cdd35691)
+![Dashboard](https://github.com/narayandc/community-app-React-Native/assets/45338758/82a6c1e0-555c-4f01-abdb-79d9cade5b4d)
+![Login1](https://github.com/narayandc/community-app-React-Native/assets/45338758/3f2f1fc7-e77a-4eff-a101-2f7afdcfaff2)
+![Help](https://github.com/narayandc/community-app-React-Native/assets/45338758/e0e2ab3c-d05e-49ed-aa2f-654133138acd)
+![Validation](https://github.com/narayandc/community-app-React-Native/assets/45338758/2640ab1a-99a5-4225-9307-0467c602877f)
+![SignUp](https://github.com/narayandc/community-app-React-Native/assets/45338758/f1a46922-52ae-432e-ab9e-c531a223dc8d)
+![HomeScreen](https://github.com/narayandc/community-app-React-Native/assets/45338758/779012a8-3302-4cce-9d6a-8d66422d3132)
 
-
+Screeenshot of mobile app:
 

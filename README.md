@@ -35,8 +35,8 @@ List any prerequisites or dependencies that need to be installed before running 
 
 Screeenshots of mobile app:
 
-<img src="https://github.com/narayandc/community-app-React-Native/assets/45338758/3f2f1fc7-e77a-4eff-a101-2f7afdcfaff2 data-canonical-src="https://user-images.githubusercontent.com/16319829/79087218-ef769280-7d81-11ea-93d6-a81ea2a7474e.png" width="250" height="500" />
-<img src="https://github.com/narayandc/community-app-React-Native/assets/45338758/82a6c1e0-555c-4f01-abdb-79d9cade5b4d data-canonical-src="https://user-images.githubusercontent.com/16319829/79087218-ef769280-7d81-11ea-93d6-a81ea2a7474e.png" width="250" height="500" />
+<img src="https://github.com/narayandc/community-app-React-Native/assets/45338758/3f2f1fc7-e77a-4eff-a101-2f7afdcfaff2" data-canonical-src="https://user-images.githubusercontent.com/16319829/79087218-ef769280-7d81-11ea-93d6-a81ea2a7474e.png" width="250" height="500" />
+<img src="https://github.com/narayandc/community-app-React-Native/assets/45338758/82a6c1e0-555c-4f01-abdb-79d9cade5b4d" data-canonical-src="https://user-images.githubusercontent.com/16319829/79087218-ef769280-7d81-11ea-93d6-a81ea2a7474e.png" width="250" height="500" />
 <img src="https://github.com/narayandc/community-app-React-Native/assets/45338758/2640ab1a-99a5-4225-9307-0467c602877f" data-canonical-src="https://user-images.githubusercontent.com/16319829/79087218-ef769280-7d81-11ea-93d6-a81ea2a7474e.png" width="250" height="500" />
 <img src="https://github.com/narayandc/community-app-React-Native/assets/45338758/e0e2ab3c-d05e-49ed-aa2f-654133138acd" data-canonical-src="https://user-images.githubusercontent.com/16319829/79087218-ef769280-7d81-11ea-93d6-a81ea2a7474e.png" width="250" height="500" />
 
